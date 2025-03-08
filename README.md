@@ -22,9 +22,10 @@ This project focuses on analyzing data to uncover insights and trends using **Po
 - Performance metrics and **key KPIs** for analysis.
 
 ## 🚀 How to Use
-1. Download the **Power BI (.pbix) file** from this repository.
-2. Open it using **Power BI Desktop**.
-3. Explore the dashboard and interact with the visualizations.
+1. Download the Healthcara_Analysis.zip from this repository.
+2. It has the datasets and the powerbi dashboard.
+3. Open it using **Power BI Desktop**.
+4. Explore the dashboard and interact with the visualizations.
 
 
 ## 👤 Author
